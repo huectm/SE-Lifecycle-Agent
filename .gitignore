@@ -1,0 +1,19 @@
+# Operating System Files
+[Dd]esktop.ini
+Thumbs.db
+.DS_Store
+
+# IDE / Editor Files
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build & Temporary Files
+bin/
+obj/
+node_modules/
+*.tmp
+*.log
